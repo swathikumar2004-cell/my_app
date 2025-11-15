@@ -1,0 +1,7 @@
+{
+  "name": "ScholarAI",
+  "description": "A sleek and responsive chatbot application powered by Google's Gemini model, featuring real-time streaming responses for a natural conversational experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
